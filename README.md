@@ -1,6 +1,4 @@
-#[AngularJS]
-
-(https://angular.io/assets/images/logos/angular/angular.svg)
+#[AngularJS](https://angular.io/assets/images/logos/angular/angular.svg)
 
 #### *A curated list of helpful material to start learning Angular 2*
 
